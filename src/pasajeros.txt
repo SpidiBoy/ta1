@@ -1,0 +1,3 @@
+1|Diego|Mendoza|Perez|78945612|2000-07-14|Nigeria|7984121|3
+2|Pepe|Neciosup|Fuentes|45678912|2000-07-08|Peruano|798456121|1
+1|Edwin|Rojas|Castro|54496317|2006-07-03|España|6513130|1

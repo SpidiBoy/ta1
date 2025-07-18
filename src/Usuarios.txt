@@ -1,0 +1,5 @@
+1|Edwin|Edwin@utp|123|cliente|1200.5
+2|Diego|Diego@utp|123|cliente|800.0
+3|Antony|Antony@utp|123|cliente|950.75
+4|Cris|Cris@utp|123|cliente|1500.0
+5|Harol|Harol@utp|123|cliente|1100.25
